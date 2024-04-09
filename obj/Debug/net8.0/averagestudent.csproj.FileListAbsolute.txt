@@ -1,0 +1,14 @@
+C:\Users\duno\project\csharp\Notas\averagestudent\bin\Debug\net8.0\averagestudent.exe
+C:\Users\duno\project\csharp\Notas\averagestudent\bin\Debug\net8.0\averagestudent.deps.json
+C:\Users\duno\project\csharp\Notas\averagestudent\bin\Debug\net8.0\averagestudent.runtimeconfig.json
+C:\Users\duno\project\csharp\Notas\averagestudent\bin\Debug\net8.0\averagestudent.dll
+C:\Users\duno\project\csharp\Notas\averagestudent\bin\Debug\net8.0\averagestudent.pdb
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.AssemblyInfoInputs.cache
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.AssemblyInfo.cs
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.csproj.CoreCompileInputs.cache
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.dll
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\refint\averagestudent.dll
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.pdb
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\averagestudent.genruntimeconfig.cache
+C:\Users\duno\project\csharp\Notas\averagestudent\obj\Debug\net8.0\ref\averagestudent.dll
